@@ -1,5 +1,5 @@
 #!/bin/bash
 pwd
 date
-echo "My git"
+echo "My git flow"
 
