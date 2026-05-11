@@ -1,4 +1,5 @@
-echo "BUG fix version"
+echo "MAIN version"
+
 
 
 
