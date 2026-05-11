@@ -1,8 +1,7 @@
 #!/bin/bash
 pwd
 date
-echo "My git flow-1"
-echo "my symbol"
+echo "main version"
 
 
 
