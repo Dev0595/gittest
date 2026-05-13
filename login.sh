@@ -5,6 +5,7 @@ echo"$pwd"
 pwd
 echo "hello"
 echo "cleanup"
+echo "cleanup-2"
 
 
 
