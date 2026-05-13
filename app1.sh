@@ -5,5 +5,6 @@ echo "latest changes"
 echo "latest chnages by feera"
 echo "UI"
 echo "validation"
+echo "bugfix"
 
 
